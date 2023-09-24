@@ -1,4 +1,5 @@
 WEB-INF/
 target/
+*.xml
 
-
+#no ignora WEB-INF. Para eso deberíamos colocar el gitignore en WEB-INF.
